@@ -1,0 +1,19 @@
+.side-nav__brand {
+  background: url("test-logo.jpg") no-repeat left center !important;
+  margin-left: 50px;
+  height: 80px;
+  background-size: contain !important;
+}
+.side-nav__brand span {
+  display: none;
+}
+
+/* .side-nav__brand:after {
+  content: "ĐHSG";
+  width: fit-content;
+  height: auto;
+  margin: 0 auto;
+  block-size: fit-content;
+  font-size: 0.8vw;
+  margin-left: 3px;
+} */
